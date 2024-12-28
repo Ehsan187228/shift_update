@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shift_2024.12.27-1</title>
+        <item>
+            <title>2024.12.27-1</title>
+            <pubDate>Fri, 27 Dec 2024 23:11:28 -0500</pubDate>
+            <sparkle:version>2024.12.27-1</sparkle:version>
+            <sparkle:shortVersionString>2024.12.27-1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift_2024.12.27-1.dmg" length="15954701" type="application/octet-stream" sparkle:edSignature="D4J2SpcBNwDaFrqdjy8Dri3+7RGFK6W1PJjMf3qq37+YDYBxUpt6wGNATV3AWuyRvq7MBKLgFPfKpMZzuAjZBQ=="/>
+        </item>
+    </channel>
+</rss>
