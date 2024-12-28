@@ -3,10 +3,10 @@
     <channel>
         <title>Shift</title>
         <item>
-            <title>2024.12.27-3</title>
+            <title>2024.12.27-2</title>
             <pubDate>Fri, 27 Dec 2024 23:58:38 -0500</pubDate>
-            <sparkle:version>2024.12.27-3</sparkle:version>
-            <sparkle:shortVersionString>2024.12.27-3</sparkle:shortVersionString>
+            <sparkle:version>2024.12.27-2</sparkle:version>
+            <sparkle:shortVersionString>2024.12.27-2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift_2024.12.27-2.dmg" length="15991551" type="application/octet-stream" sparkle:edSignature="/NbrpUkQ1dFoAtfQvoNgOYpYxzMzwp68moJFertr+9rIQxvxoYQI+Jfku8QeOXOvEaN1vaDgebnrmUDI6D5DBA=="/>
         </item>
