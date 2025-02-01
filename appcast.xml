@@ -3,10 +3,10 @@
     <channel>
         <title>Shift</title>
         <item>
-            <title>0.5.0</title>
+            <title>0.6.0</title>
             <pubDate>Thu, 23 Jan 2025 19:14:04 -0500</pubDate>
-            <sparkle:version>0.5.0</sparkle:version>
-            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:version>0.6.0</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift.0.5.0.dmg" length="18282503" type="application/octet-stream" sparkle:edSignature="3bkeKHm7GA1Vnf/Ak1GHVH3QBTN3eiVD6X6bcp4OHZnXPdn9DKqzCm9YZubIQ6+LumA5X/23ykNsg1LyouyDCw=="/>
         </item>
