@@ -4,11 +4,11 @@
         <title>Shift</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 05 Feb 2025 20:45:12 -0500</pubDate>
+            <pubDate>Fri, 07 Feb 2025 22:37:25 -0500</pubDate>
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift.1.0.0.dmg" length="19116116" type="application/octet-stream" sparkle:edSignature="FrN4fUStOGbNEqE5K/251riZ7ifq/gC+tTlBPqdLtjqQril7XrkH3r8jpnLSytZkKrWg+By8mypCyVV0QRdRBA=="/>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift.1.0.0.dmg" length="17831352" type="application/octet-stream" sparkle:edSignature="sDeEIpODx/d9bccoPpTsjyXvvULLfQ4dDHrghjafKfbVc0T6+shc3aPU+SRiu3oxEXqOVwllS7Y4KMqDEZ2LAw=="/>
         </item>
     </channel>
 </rss>
