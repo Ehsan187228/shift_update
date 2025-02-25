@@ -3,12 +3,12 @@
     <channel>
         <title>Shift</title>
         <item>
-            <title>1.5.0</title>
-            <pubDate>Sun, 23 Feb 2025 22:32:23 -0500</pubDate>
-            <sparkle:version>1.5.0</sparkle:version>
-            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <title>1.6.0</title>
+            <pubDate>Tue, 25 Feb 2025 00:06:48 -0500</pubDate>
+            <sparkle:version>1.6.0</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift.1.5.0.dmg" length="19321177" type="application/octet-stream" sparkle:edSignature="0pCv+95fc57WlT3lInpxa5SFPfafgVttc1brCQvqGMKAnMHwf99sAoqj5vwY4gp4jjCZGJLDMg2I3BZznqpCBQ=="/>
+            <enclosure url="https://github.com/Ehsan187228/shift_update/releases/download/prod/Shift.1.6.0.dmg" length="19422838" type="application/octet-stream" sparkle:edSignature="q6r4d9B7aFbf+Z3Jsi7xeVC/5S0QTeLwyZThFJKmA0jWrfRJfvWvJ/Pb2SNggjxjUsOxMvr3uSnmM0fxoMgrAA=="/>
         </item>
     </channel>
 </rss>
